@@ -45,10 +45,15 @@ Compreender a camada de infraestrutura é um diferencial competitivo para a Gest
 
 ---
 
-## 🗺️ Navegação
-* 🏠 [Início do Perfil](https://github.com/cezarscarvalho)
-* 🗄️ [Modelagem de Dados (SQL)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
-* 🐧 [Sistemas Operacionais (Linux)](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
+## 🧭 Navegação Completa pelo Portfólio
+
+Confira os meus outros projetos técnicos desenvolvidos durante a graduação em Gestão de TI:
+
+* 🏠 [**Voltar ao Perfil Principal**](https://github.com/cezarscarvalho)
+* 💻 [**Lógica de Programação** (Portugol)](https://github.com/cezarscarvalho/logica-programacao-portugol)
+* 🐧 [**Sistemas Operacionais** (Linux & VirtualBox)](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
+* 📐 [**Lógica e Processos** (Fluxogramas)](https://github.com/cezarscarvalho/logica-fluxogramas-processos)
+* 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
 
 ## ✉️ Contato
 
