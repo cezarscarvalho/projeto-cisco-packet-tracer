@@ -32,7 +32,7 @@ Abaixo, a representação gráfica da rede implementada, demonstrando a conexão
 ### Tabela de Planejamento de IPs
 *Detalhe do cálculo de endereçamento realizado para os departamentos:*
 
-![Tabela de Endereçamento IP](assets/tabela_enderecamento.png)
+![Tabela de Endereçamento IP](assets/Tabela_Enderecamento.png)
 
 > *O relatório técnico completo com todos os cálculos e configurações pode ser consultado na pasta [`/docs`](./docs/).*
 
