@@ -27,7 +27,7 @@ Foi utilizada uma rede de **Classe C** subdividida para atender aos requisitos d
 ### Topologia Visual
 Abaixo, a representação gráfica da rede implementada, demonstrando a conexão física entre os dispositivos e o concentrador (Switch).
 
-![Topologia da Rede no Packet Tracer](assets/topologia_rede.png)
+![Topologia da Rede no Packet Tracer](assets/Topologia_Rede.png)
 
 ### Tabela de Planejamento de IPs
 *Detalhe do cálculo de endereçamento realizado para os departamentos:*
