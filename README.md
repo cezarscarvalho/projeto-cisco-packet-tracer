@@ -54,6 +54,7 @@ Confira os meus outros projetos técnicos desenvolvidos durante a graduação em
 * 🐧 [**Sistemas Operacionais** (Linux & VirtualBox)](https://github.com/cezarscarvalho/sistemas-operacionais-linux)
 * 📐 [**Lógica e Processos** (Fluxogramas)](https://github.com/cezarscarvalho/logica-fluxograma-processos)
 * 🗄️ [**Modelagem de Dados** (MySQL & DER)](https://github.com/cezarscarvalho/modelagem-dados-mysql-biblioteca)
+* 📊 [**Projeto Agile**](https://github.com/cezarscarvalho/projeto-software-agile)
 
 ## ✉️ Contato
 
